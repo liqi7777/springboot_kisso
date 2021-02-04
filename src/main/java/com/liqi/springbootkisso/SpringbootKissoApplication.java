@@ -17,6 +17,8 @@ public class SpringbootKissoApplication {
         log.info("dev-test");
 
         log.info("master-dev2.0");
+
+        log.info("dev2.0-test");
     }
 
 }

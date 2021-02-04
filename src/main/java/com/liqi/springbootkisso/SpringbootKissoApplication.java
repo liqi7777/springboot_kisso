@@ -13,6 +13,8 @@ public class SpringbootKissoApplication {
         SpringApplication.run(SpringbootKissoApplication.class, args);
 
         log.info("master");
+
+        log.info("dev-test");
     }
 
 }

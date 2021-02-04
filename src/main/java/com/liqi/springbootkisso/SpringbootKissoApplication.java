@@ -13,6 +13,8 @@ public class SpringbootKissoApplication {
         SpringApplication.run(SpringbootKissoApplication.class, args);
 
         log.info("master-dev3.0");
+
+        log.info("dev3.0");
     }
 
 }

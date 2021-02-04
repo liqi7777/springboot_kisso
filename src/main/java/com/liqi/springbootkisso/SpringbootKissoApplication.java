@@ -12,13 +12,6 @@ public class SpringbootKissoApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootKissoApplication.class, args);
 
-        log.info("master");
-
-        log.info("dev-test");
-
-        log.info("master-dev2.0");
-
-        log.info("dev2.0-test");
     }
 
 }

@@ -12,6 +12,7 @@ public class SpringbootKissoApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootKissoApplication.class, args);
 
+        log.info("master-dev3.0");
     }
 
 }
